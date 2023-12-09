@@ -25,5 +25,8 @@ int main(void)
 
 int convert(string input)
 {
-    // TODO
+    for (int i = strlen(input - 1); i > 0; i--)
+    {
+        // Finish loop
+    }
 }
